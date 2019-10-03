@@ -1,0 +1,1 @@
+puts "Bonjour" + first_name=gets.chomp
